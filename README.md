@@ -1,3 +1,3 @@
 # hello-world
 my firts repository
-Pruba de edición de archivo read me en Github!!!
+Prueba de edición de archivo read me en Github!!!
